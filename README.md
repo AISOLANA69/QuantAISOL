@@ -1,7 +1,11 @@
-AI Quant App (based on AI Getting Started template)
+AI Agent Smith (based on AI Getting Started template)
 CA:
 
-![Your Quantitative AI Analyst (1)](https://github.com/user-attachments/assets/fb7cf129-428d-47d4-8013-d0de112ecf3d)
+
+
+https://github.com/user-attachments/assets/0c224ba6-2fd4-4e56-a2ac-8764419956c1
+
+
 
 This is a tutorial stack to create and host AI quants that you can interact with through a browser or SMS. The app lets you define the personality and backstory of your quant and leverages a vector database with similarity search to enhance conversational depth. It includes conversational memory by queuing interactions and integrating them into prompts.
 
